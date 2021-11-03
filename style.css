@@ -1,0 +1,25 @@
+body {
+
+background: rgb(228, 228, 228);
+
+}
+
+nav {
+
+
+}
+
+#section-slider {
+background-color: rgb(69, 126, 192);
+padding: 20px;
+}
+
+.btn {
+    padding: 10px;
+    background-color: rgb(90, 179, 179);
+    color: rgb(5, 5, 5);
+}
+
+.btn-primary {
+    background-color: silver;
+}
